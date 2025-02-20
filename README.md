@@ -1,3 +1,40 @@
+# Netflix Clone
+
+A Netflix clone built with React and TMDB API, featuring a responsive design and real-time movie data.
+
+
+## Features
+
+-  Real-time movie and TV show data from TMDB
+-  Netflix-like UI/UX
+-  Fully responsive design
+-  Dynamic content loading
+-  Smooth animations and transitions
+-  "Recently Added" badges
+-  Dynamic banner with featured content
+
+## Tech Stack
+
+- React.js
+- Styled Components
+- Axios
+- TMDB API
+- Material UI Icons
+
+## Installation
+
+1. Clone the repository: **git clone https://github.com/sumittbiradar/netflix-clone.git**
+   
+2. Navigate to project directory: **cd netflix-clone**
+
+3. Install dependencies: **npm install**
+
+4. Create a `.env` file in the root directory and add your TMDB API key: **REACT_APP_TMDB_API_KEY=your_api_key_here(You can get your own form TMDB API KEY by sighning in).**
+
+5. Start the development server:**npm start**
+
+
+
 
 ## Components
 
